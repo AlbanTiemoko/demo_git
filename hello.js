@@ -1,2 +1,2 @@
-Var message = "hello"
-alert(message)
+Var message = "hello";
+alert(message);
