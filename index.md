@@ -1,0 +1,1 @@
+Ceci est deuxieme fichier text de qualite
